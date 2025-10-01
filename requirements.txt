@@ -1,0 +1,7 @@
+openpyxl
+pandas
+pydantic
+psycopg2
+sqlalchemy
+matplotlib
+seaborn
