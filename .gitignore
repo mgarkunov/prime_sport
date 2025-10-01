@@ -1,0 +1,40 @@
+### IDE ###
+.dbeaver/
+*/.dbeaver/*
+.idea/
+*/.idea/*
+.vscode/
+*/.vscode/*
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+### Environments ###
+.venv/
+*/.venv/*
+.env/
+*/.env/*
+venv/
+*/venv/*
+.env
+.venv
+
+### IPython ###
+profile_default/
+ipython_config.py
+
+### Python ###
+__pycache__/
+*.py[cod]
+*$py.class
+
+### Local DB ###
+*.db
+
+### Logs ###
+logs/
+logs/*
+log*.*!/.env
+
+### TMP ###
+tmp/
+temp/
